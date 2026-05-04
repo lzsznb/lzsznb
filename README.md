@@ -1,4 +1,10 @@
-关于我 | About Me
-👋 大三，数据科学与大数据专业 | Junior Year, Data Science & Big Data
-🌱 专注于实用工具开发、运维开发，兼修多种技术，熟悉全栈开发的各个流程 | Focus on practical tool development & operations development, proficient in various technologies, and familiar with the whole process of full-stack development
-📫 联系我：1784238233@qq.com | Contact me: 1784238233@qq.com
+# 👋 关于我 | About Me
+
+- 🏫 **在校身份**：大三 | 数据科学与大数据专业  
+  Junior Year, Data Science & Big Data
+
+- 💻 **技术方向**：实用工具开发 • 运维开发 • 全栈开发  
+  Focus on practical tool development & operations development, familiar with the full-stack development workflow.
+
+- 📫 **联系方式**：178438233@qq.com
+  Contact : 178438233@qq.com
